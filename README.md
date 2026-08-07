@@ -7,4 +7,4 @@ Features:
 Semantic HTML5 structure
 SEO-friendly meta description
 Accessible images with descriptive alt text
-Package listings and a "Top Itineraries" photo showcase
+Package listings and a "Top Itineraries" photo showcase.
